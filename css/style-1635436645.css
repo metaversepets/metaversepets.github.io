@@ -424,6 +424,11 @@ section {
 }
 /* ===== End Breed ===== */
 
+/* ===== Begin Breed ===== */
+.king_queen {
+    text-align: center;
+}
+/* ===== End Breed ===== */
 
 /* ===== Begin Early Sale ===== */
 #counter-up-trigger {
